@@ -3,8 +3,8 @@
 ## Issue 1 - Addition and Matmul
 
 
-1. I wish to know if there is a simple way to multiply a tensor by a scalar.
-1. Should it be possible to multiply 1D tensors with `huggingface/candle`?
+1. I wish to know if there is a simple way to add a tensor and a scalar (as in the python code in the repro).
+1. Should it be possible to multiply 1D tensors with `huggingface/candle` (as it is with pytorch matmul)?
 
 ## Install Evcxr Jupyter Kernel
 
